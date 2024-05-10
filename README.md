@@ -1,5 +1,5 @@
 # Тестирование веб-приложений
-1. Тест-план для приложения "Интернет-магазин": https://docs.google.com/spreadsheets/d/1WodOPX38I1PmjzEdDfud1mN3XC-Zaxa5hpvLwbDk6xo/edit?usp=sharing
+1. Тест-план для веб-приложения "Интернет-магазин": https://docs.google.com/spreadsheets/d/1WodOPX38I1PmjzEdDfud1mN3XC-Zaxa5hpvLwbDk6xo/edit?usp=sharing
 2. Тест-кейсы для корзины, оплаты и истории заказов:
 - QASE: 
 - Pdf: 
