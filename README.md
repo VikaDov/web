@@ -3,7 +3,7 @@
 2. Чек-лист для тестирования корзины, оплаты и истории заказов: https://docs.google.com/spreadsheets/d/1bgkDxF5Rc-ftBt-xZDEu5gpKzPkGzZVJyUNLPR8k7Bg/edit?usp=sharing
 3. Тест-кейсы для корзины, оплаты и истории заказов:
 - QASE: https://app.qase.io/project/G7?previewMode=side&suite=122&tab=properties
-- Pdf: 
+- Pdf: [G7-2024-05-11.pdf](https://github.com/VikaDov/web/files/15283306/G7-2024-05-11.pdf)
 3. Создание простой веб-страницы: 
 4. Отчеты о дефекте для корзины, оплаты и истории заказов:
 - YouTrack (отчеты о дефектах): 
