@@ -11,4 +11,4 @@
 5. Проверка тестовых сценариев в веб-приложении с использованием Charles Proxy:
 - Изменение кол-ва товаров в корзине (в запросе 2 товара, а в ответе 500 товаров):
 - Сервер возвращает статус-код 403:
-- Перенаправление запроса с https://demoshopping.ru на https://qa.demoshopping.ru:
+- Перенаправление запроса с https://demoshopping.ru на https://qa.demoshopping.ru: https://drive.google.com/file/d/1lijB5DmsuaocM77r3lK6YmXvsyjkbG-z/view?usp=drive_link
