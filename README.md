@@ -10,5 +10,5 @@
 - QASE (результаты тестового прогона): [G7-Express+run+2024_05_18.pdf](https://github.com/VikaDov/web/files/15366604/G7-Express%2Brun%2B2024_05_18.pdf)
 5. Проверка тестовых сценариев в веб-приложении с использованием Charles Proxy:
 - Изменение кол-ва товаров в корзине (в запросе 2 товара, а в ответе 500 товаров):
-- Сервер возвращает статус-код 403: https://drive.google.com/file/d/1KNz0IMLIp-bAFWE_j3AyjgYKK2y4vm3w/view?usp=drive_link
+- Сервер возвращает статус-код 403: https://drive.google.com/file/d/1dM2KPw3cNyAjc8CvrOWGrod57_Z8Buov/view?usp=drive_link
 - Перенаправление запроса с https://demoshopping.ru на https://qa.demoshopping.ru: https://drive.google.com/file/d/1lijB5DmsuaocM77r3lK6YmXvsyjkbG-z/view?usp=drive_link
