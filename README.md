@@ -1,7 +1,9 @@
 # Тестирование веб-приложений
-1. Тест-план для веб-приложения "Интернет-магазин": https://docs.google.com/spreadsheets/d/1WodOPX38I1PmjzEdDfud1mN3XC-Zaxa5hpvLwbDk6xo/edit?usp=sharing
-2. Чек-лист для тестирования корзины, оплаты и истории заказов: https://docs.google.com/spreadsheets/d/1bgkDxF5Rc-ftBt-xZDEu5gpKzPkGzZVJyUNLPR8k7Bg/edit?usp=sharing
-3. Тест-кейсы для корзины, оплаты и истории заказов:
+1. Определение методов, типов и уровней тестирования для приложения интернет-магазин: https://docs.google.com/spreadsheets/d/1W4XwkCpGuEsCWkgM0FoYtN-g3ggCNuaKJuXPCMC81QE/edit?usp=sharing
+2. Анализ требований и поиск несоответствий в приложении интернет-магазин: https://docs.google.com/spreadsheets/d/1VJRTx8RfewMMp_of4U2CUYnqc4924SFeVupt35P4iCM/edit?usp=sharing 
+2. Тест-план для веб-приложения "Интернет-магазин": https://docs.google.com/spreadsheets/d/1WodOPX38I1PmjzEdDfud1mN3XC-Zaxa5hpvLwbDk6xo/edit?usp=sharing
+3. Чек-лист для тестирования корзины, оплаты и истории заказов: https://docs.google.com/spreadsheets/d/1bgkDxF5Rc-ftBt-xZDEu5gpKzPkGzZVJyUNLPR8k7Bg/edit?usp=sharing
+4. Тест-кейсы для корзины, оплаты и истории заказов:
 - QASE: https://app.qase.io/project/G7?previewMode=side&suite=122&tab=properties
 - Pdf: [G7-2024-05-13.pdf](https://github.com/VikaDov/web/files/15299211/G7-2024-05-13.pdf)
 4. Отчеты о дефекте для регистрации, авторизации, каталога, корзины, оплаты и истории заказов:
@@ -14,4 +16,5 @@
 3. Отчеты о дефекте для регистрации, авторизации и каталога:
 - YouTrack (отчеты о дефектах): [Issues.xlsx](https://github.com/VikaDov/docs/files/15252625/Issues.xlsx)
 - QASE (результаты тестового прогона): [G7-Test+run+2024_05_05.pdf](https://github.com/VikaDov/docs/files/15213464/G7-Test%2Brun%2B2024_05_05.pdf)
+ 
 
